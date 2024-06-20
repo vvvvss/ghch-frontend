@@ -44,7 +44,7 @@
 }
 
 .settings-icon {
-    background-image: url('../public/gear.png');
+    background-image: url('./img/gear.png');
     background-size: contain;
     position: absolute;
     right: 0;
